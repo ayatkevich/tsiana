@@ -1,0 +1,11 @@
+{
+  "name": "tsiana",
+  "version": "1.0.0",
+  "description": "tsiana is an NPM package for Typescript that provides literal types for International Network Information Center (IANA) time zones and other registries. It helps to ensure accurate representation of time zone information and other registry items, providing a reliable source for time zone and registry information. tsiana is easy to use and helps to reduce errors when dealing with time zone and registry data.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "author": "Alex Yatkevich",
+  "license": "MIT"
+}
