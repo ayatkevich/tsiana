@@ -4,6 +4,10 @@
  * @see {@link https://isotc.iso.org/livelink/livelink/Open/16944257}
  */
 
+export type Code = typeof country[number]['code'];
+
+export type Name = typeof country[number]['name'];
+
 export const country = [
   { code: 'AD', name: 'Andorra' },
   { code: 'AE', name: 'United Arab Emirates' },
